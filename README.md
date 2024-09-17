@@ -72,6 +72,9 @@ This project is a simple implementation of Tic Tac Toe using Python and the Pyga
 - **Event Handling:**
   The main game loop handles user input, including mouse clicks and key presses. It updates the game state accordingly and redraws the screen.
 
+  ## Output
+  <img width="535" alt="Screen Shot 2024-09-17 at 2 54 24 PM" src="https://github.com/user-attachments/assets/e4c7b5de-56e6-4866-b9b5-22521fa419bb">
+
 
 ## Acknowledgments
 
