@@ -39,7 +39,7 @@ This project is a simple implementation of Tic Tac Toe using Python and the Pyga
 1. **Run the game:**
 
     ```bash
-    python tic_tac_toe.py
+    python main.py
     ```
 
 2. **Gameplay:**
