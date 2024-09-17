@@ -48,7 +48,7 @@ This project is a simple implementation of Tic Tac Toe using Python and the Pyga
     - The game switches between two players.
     - If a player wins, or the board is full, a "Restart" button will appear.
     - You can also press the 'R' key to restart the game.
-## Archieture
+## Architecture
 
 ![tictactoe drawio](https://github.com/user-attachments/assets/c0290184-dbd1-421c-b972-df198ffac36c)
 
